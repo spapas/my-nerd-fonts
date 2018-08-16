@@ -9,3 +9,5 @@ These fonts have the following characteristics:
 * They work with windows command line (cmd)
 
 Install them and then select then in gvim and cmd.
+
+Please notice mononoki is missing some accented characters :/
